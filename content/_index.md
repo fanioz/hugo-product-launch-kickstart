@@ -7,7 +7,7 @@ header_button_cta:
 header_button_more:
   url: "#the-future---today"
   title: "Why this is awesome?"
-teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
+teaser_image: "images/galih.jpg" # https://www.pexels.com/search/product%20testing/
 ---
 
 # The Future - Today!
